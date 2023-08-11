@@ -13,8 +13,9 @@ body{
     flex-direction: column;
     align-items: center;
     background-color: rgb(141, 141, 141);
+    border-radius: 5px;
 }
-.display{
+#display{
     height:50px;
     width:80%;
     border:2px solid rgb(218, 217, 217);
